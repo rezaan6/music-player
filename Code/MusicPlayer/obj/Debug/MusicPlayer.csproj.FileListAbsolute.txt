@@ -1,0 +1,90 @@
+C:\Users\REZAAN\source\repos\MusicPlayer\obj\Debug\MusicPlayer.csprojAssemblyReference.cache
+C:\Users\REZAAN\source\repos\MusicPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\REZAAN\source\repos\MusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\REZAAN\source\repos\MusicPlayer\obj\Debug\MusicPlayer.csproj.ResolveComReference.cache
+C:\Users\REZAAN\source\repos\MusicPlayer\obj\Debug\MusicPlayer.Form1.resources
+C:\Users\REZAAN\source\repos\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+C:\Users\REZAAN\source\repos\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.cache
+C:\Users\REZAAN\source\repos\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+C:\Users\REZAAN\source\repos\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+C:\Users\REZAAN\source\repos\MusicPlayer\bin\Debug\MusicPlayer.exe
+C:\Users\REZAAN\source\repos\MusicPlayer\bin\Debug\MusicPlayer.pdb
+C:\Users\REZAAN\source\repos\MusicPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\REZAAN\source\repos\MusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\REZAAN\source\repos\MusicPlayer\obj\Debug\MusicPlayer.exe
+C:\Users\REZAAN\source\repos\MusicPlayer\obj\Debug\MusicPlayer.pdb
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\MusicPlayer\obj\Debug\MusicPlayer.csprojAssemblyReference.cache
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\MusicPlayer\obj\Debug\Interop.WMPLib.dll
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\MusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\MusicPlayer\obj\Debug\MusicPlayer.csproj.ResolveComReference.cache
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\MusicPlayer\obj\Debug\MusicPlayer.Form1.resources
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.cache
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\MusicPlayer\obj\Debug\MusicPlayer.exe
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\MusicPlayer\obj\Debug\MusicPlayer.pdb
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\MusicPlayer\bin\Debug\MusicPlayer.exe
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\MusicPlayer\bin\Debug\MusicPlayer.pdb
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\MusicPlayer\bin\Debug\Interop.WMPLib.dll
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\MusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\Project\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\Project\MusicPlayer\bin\Debug\MusicPlayer.exe
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\Project\MusicPlayer\bin\Debug\MusicPlayer.pdb
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\Project\MusicPlayer\bin\Debug\Interop.WMPLib.dll
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\Project\MusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\Project\MusicPlayer\obj\Debug\MusicPlayer.csprojAssemblyReference.cache
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\Project\MusicPlayer\obj\Debug\Interop.WMPLib.dll
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\Project\MusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\Project\MusicPlayer\obj\Debug\MusicPlayer.csproj.ResolveComReference.cache
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\Project\MusicPlayer\obj\Debug\MusicPlayer.Form1.resources
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\Project\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\Project\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.cache
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\Project\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\Project\MusicPlayer\obj\Debug\MusicPlayer.exe
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\Project\MusicPlayer\obj\Debug\MusicPlayer.pdb
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\Project\New folder\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\Project\New folder\MusicPlayer\bin\Debug\MusicPlayer.exe
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\Project\New folder\MusicPlayer\bin\Debug\MusicPlayer.pdb
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\Project\New folder\MusicPlayer\bin\Debug\Interop.WMPLib.dll
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\Project\New folder\MusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\Project\New folder\MusicPlayer\obj\Debug\MusicPlayer.csprojAssemblyReference.cache
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\Project\New folder\MusicPlayer\obj\Debug\Interop.WMPLib.dll
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\Project\New folder\MusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\Project\New folder\MusicPlayer\obj\Debug\MusicPlayer.csproj.ResolveComReference.cache
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\Project\New folder\MusicPlayer\obj\Debug\MusicPlayer.Form1.resources
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\Project\New folder\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\Project\New folder\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.cache
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\Project\New folder\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\Project\New folder\MusicPlayer\obj\Debug\MusicPlayer.exe
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\Project\New folder\MusicPlayer\obj\Debug\MusicPlayer.pdb
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\LO3\Code\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\LO3\Code\MusicPlayer\bin\Debug\MusicPlayer.exe
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\LO3\Code\MusicPlayer\bin\Debug\MusicPlayer.pdb
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\LO3\Code\MusicPlayer\bin\Debug\Interop.WMPLib.dll
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\LO3\Code\MusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\LO3\Code\MusicPlayer\obj\Debug\MusicPlayer.csprojAssemblyReference.cache
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\LO3\Code\MusicPlayer\obj\Debug\Interop.WMPLib.dll
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\LO3\Code\MusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\LO3\Code\MusicPlayer\obj\Debug\MusicPlayer.csproj.ResolveComReference.cache
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\LO3\Code\MusicPlayer\obj\Debug\MusicPlayer.Form1.resources
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\LO3\Code\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\LO3\Code\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.cache
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\LO3\Code\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\LO3\Code\MusicPlayer\obj\Debug\MusicPlayer.exe
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\LO3\Code\MusicPlayer\obj\Debug\MusicPlayer.pdb
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\LO3\Music Player\Code\MusicPlayer\bin\Debug\MusicPlayer.exe.config
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\LO3\Music Player\Code\MusicPlayer\bin\Debug\MusicPlayer.exe
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\LO3\Music Player\Code\MusicPlayer\bin\Debug\MusicPlayer.pdb
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\LO3\Music Player\Code\MusicPlayer\bin\Debug\Interop.WMPLib.dll
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\LO3\Music Player\Code\MusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\LO3\Music Player\Code\MusicPlayer\obj\Debug\MusicPlayer.csprojAssemblyReference.cache
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\LO3\Music Player\Code\MusicPlayer\obj\Debug\Interop.WMPLib.dll
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\LO3\Music Player\Code\MusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\LO3\Music Player\Code\MusicPlayer\obj\Debug\MusicPlayer.csproj.ResolveComReference.cache
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\LO3\Music Player\Code\MusicPlayer\obj\Debug\MusicPlayer.Form1.resources
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\LO3\Music Player\Code\MusicPlayer\obj\Debug\MusicPlayer.Properties.Resources.resources
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\LO3\Music Player\Code\MusicPlayer\obj\Debug\MusicPlayer.csproj.GenerateResource.cache
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\LO3\Music Player\Code\MusicPlayer\obj\Debug\MusicPlayer.csproj.CoreCompileInputs.cache
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\LO3\Music Player\Code\MusicPlayer\obj\Debug\MusicPlayer.exe
+D:\Downloads\Google Drive\BCAS\4th Term\DSA\Final\LO3\Music Player\Code\MusicPlayer\obj\Debug\MusicPlayer.pdb
