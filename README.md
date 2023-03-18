@@ -1,4 +1,3 @@
-# Bookmark (STAR) My Project if it's useful.
 # Music-Player
 <p align="center">
   <img src="./UI/display.PNG" />
@@ -48,9 +47,3 @@ The following are the choices I made:
 *	For ADT: Queue with Array Implementation.
 *	For Search Algorithm: Linear Search.
 *	For Sort Algorithm: Bubble Sort.
-
-
-# Developed by
-MOHAMMED REZAAN RIYAZ
-
-
